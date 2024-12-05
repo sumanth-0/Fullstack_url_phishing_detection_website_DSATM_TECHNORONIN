@@ -2,6 +2,8 @@
 Made this full stack web app and machine learning project.
 ![Screenshot (150)](https://github.com/user-attachments/assets/2d0fa764-ba0c-4279-80fe-57290233f633)
 ![Screenshot (151)](https://github.com/user-attachments/assets/343e24db-fa2a-4288-9c23-907324c83cb3)
+![Screenshot (456)](https://github.com/user-attachments/assets/abf05f75-728e-4f84-bf8d-687169ce7821)
+
 ![Screenshot (148)](https://github.com/user-attachments/assets/5a85d63e-0288-4358-aad6-52c656c793ba)
 ![Screenshot (149)](https://github.com/user-attachments/assets/6e0c59b1-0495-48e8-9211-1c48d5cf7b04)
 ![Screenshot (152)](https://github.com/user-attachments/assets/08353c28-1ed8-4451-a86f-1dabd146730c)
